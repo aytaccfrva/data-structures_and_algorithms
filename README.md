@@ -23,7 +23,7 @@
 
 - Big-O notation: O(n^2)
 
-### Question 3:
+### Question 2:
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
@@ -38,7 +38,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 
 Average Case. Because 18 is the 3rd element of the array.
 
-### Question 4:
+### Question 3:
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
